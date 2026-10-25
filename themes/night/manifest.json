@@ -1,0 +1,53 @@
+{
+  "id": "night",
+  "schema": 2,
+  "ver": "1.0.0",
+  "minApp": "3.7.0",
+  "name": "夜航 · 静夜",
+  "author": "轻语官方",
+  "desc": "深夜记账也不刺眼的静夜配色",
+  "wallpaper": "themes/night/wall.jpg",
+  "palette": {
+    "brand": "#3a4666",
+    "brand2": "#7d8bab",
+    "bg": "#f1f3f9",
+    "card": "#ffffff",
+    "card2": "#f4f6fb",
+    "ink": "#1d2333",
+    "ink2": "#67708a",
+    "line": "#e8ecf5",
+    "expense": "#c96a45",
+    "expenseWeak": "#fdf0ec",
+    "income": "#2f7f6b",
+    "incomeWeak": "#edf7f4",
+    "transfer": "#3f5f8f",
+    "transferWeak": "#eef2f9"
+  },
+  "tabIcons": {
+    "home": "themes/night/tab/home.svg",
+    "charts": "themes/night/tab/charts.svg",
+    "discover": "themes/night/tab/discover.svg",
+    "profile": "themes/night/tab/profile.svg"
+  },
+  "discIcons": {
+    "themeshop": "themes/night/disc/palette.svg",
+    "scan": "themes/night/disc/camera.svg",
+    "assets": "themes/night/disc/building-bank.svg",
+    "creditCards": "themes/night/disc/credit-card.svg",
+    "debts": "themes/night/disc/trending-down.svg",
+    "goals": "themes/night/disc/target-arrow.svg",
+    "reimburse": "themes/night/disc/briefcase.svg",
+    "templates": "themes/night/disc/bolt.svg",
+    "loan": "themes/night/disc/home.svg",
+    "fx": "themes/night/disc/currency-dollar.svg",
+    "invoice": "themes/night/disc/receipt.svg",
+    "import": "themes/night/disc/download.svg",
+    "recurring": "themes/night/disc/repeat.svg",
+    "ledgers": "themes/night/disc/books.svg",
+    "review": "themes/night/disc/wand.svg"
+  },
+  "catIcons": {
+    "pack": "themes/night/cat/",
+    "ext": "svg"
+  }
+}

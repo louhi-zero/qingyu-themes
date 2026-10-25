@@ -1,0 +1,53 @@
+{
+  "id": "sakura",
+  "schema": 2,
+  "ver": "1.0.0",
+  "minApp": "3.7.0",
+  "name": "樱语 · 粉樱",
+  "author": "轻语官方",
+  "desc": "粉樱窗边，花瓣与柔光，温柔以待每一笔",
+  "wallpaper": "themes/sakura/wall.jpg",
+  "palette": {
+    "brand": "#a84567",
+    "brand2": "#d98aa6",
+    "bg": "#fdf6f9",
+    "card": "#ffffff",
+    "card2": "#fbf1f5",
+    "ink": "#2a2026",
+    "ink2": "#7a6a72",
+    "line": "#f4e6ed",
+    "expense": "#e07840",
+    "expenseWeak": "#fff1ef",
+    "income": "#1e9e6e",
+    "incomeWeak": "#effaf4",
+    "transfer": "#8a6fb0",
+    "transferWeak": "#f3eefb"
+  },
+  "tabIcons": {
+    "home": "themes/sakura/tab/home.svg",
+    "charts": "themes/sakura/tab/charts.svg",
+    "discover": "themes/sakura/tab/discover.svg",
+    "profile": "themes/sakura/tab/profile.svg"
+  },
+  "discIcons": {
+    "themeshop": "themes/sakura/disc/palette.svg",
+    "scan": "themes/sakura/disc/camera.svg",
+    "assets": "themes/sakura/disc/building-bank.svg",
+    "creditCards": "themes/sakura/disc/credit-card.svg",
+    "debts": "themes/sakura/disc/trending-down.svg",
+    "goals": "themes/sakura/disc/target-arrow.svg",
+    "reimburse": "themes/sakura/disc/briefcase.svg",
+    "templates": "themes/sakura/disc/bolt.svg",
+    "loan": "themes/sakura/disc/home.svg",
+    "fx": "themes/sakura/disc/currency-dollar.svg",
+    "invoice": "themes/sakura/disc/receipt.svg",
+    "import": "themes/sakura/disc/download.svg",
+    "recurring": "themes/sakura/disc/repeat.svg",
+    "ledgers": "themes/sakura/disc/books.svg",
+    "review": "themes/sakura/disc/wand.svg"
+  },
+  "catIcons": {
+    "pack": "themes/sakura/cat/",
+    "ext": "svg"
+  }
+}

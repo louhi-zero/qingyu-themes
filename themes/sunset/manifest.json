@@ -1,0 +1,53 @@
+{
+  "id": "sunset",
+  "schema": 2,
+  "ver": "1.0.0",
+  "minApp": "3.7.0",
+  "name": "暮野 · 黄昏",
+  "author": "轻语官方",
+  "desc": "落日余晖里把今天记完",
+  "wallpaper": "themes/sunset/wall.jpg",
+  "palette": {
+    "brand": "#9c5326",
+    "brand2": "#d8894a",
+    "bg": "#fdf7f1",
+    "card": "#ffffff",
+    "card2": "#fbf2e9",
+    "ink": "#2b2320",
+    "ink2": "#7d6e64",
+    "line": "#f2e6d9",
+    "expense": "#d9691f",
+    "expenseWeak": "#fff0e4",
+    "income": "#2c8a63",
+    "incomeWeak": "#eef8f2",
+    "transfer": "#3f6fa8",
+    "transferWeak": "#eef3fa"
+  },
+  "tabIcons": {
+    "home": "themes/sunset/tab/home.svg",
+    "charts": "themes/sunset/tab/charts.svg",
+    "discover": "themes/sunset/tab/discover.svg",
+    "profile": "themes/sunset/tab/profile.svg"
+  },
+  "discIcons": {
+    "themeshop": "themes/sunset/disc/palette.svg",
+    "scan": "themes/sunset/disc/camera.svg",
+    "assets": "themes/sunset/disc/building-bank.svg",
+    "creditCards": "themes/sunset/disc/credit-card.svg",
+    "debts": "themes/sunset/disc/trending-down.svg",
+    "goals": "themes/sunset/disc/target-arrow.svg",
+    "reimburse": "themes/sunset/disc/briefcase.svg",
+    "templates": "themes/sunset/disc/bolt.svg",
+    "loan": "themes/sunset/disc/home.svg",
+    "fx": "themes/sunset/disc/currency-dollar.svg",
+    "invoice": "themes/sunset/disc/receipt.svg",
+    "import": "themes/sunset/disc/download.svg",
+    "recurring": "themes/sunset/disc/repeat.svg",
+    "ledgers": "themes/sunset/disc/books.svg",
+    "review": "themes/sunset/disc/wand.svg"
+  },
+  "catIcons": {
+    "pack": "themes/sunset/cat/",
+    "ext": "svg"
+  }
+}

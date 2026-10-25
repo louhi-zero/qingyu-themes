@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "list": [
+    {
+      "id": "sakura",
+      "schema": 2,
+      "name": "樱语 · 粉樱",
+      "author": "轻语官方",
+      "desc": "粉樱窗边，花瓣与柔光，温柔以待每一笔",
+      "file": "themes/sakura/wall.jpg"
+    },
+    {
+      "id": "sunset",
+      "schema": 2,
+      "name": "暮野 · 黄昏",
+      "author": "轻语官方",
+      "desc": "落日余晖里把今天记完",
+      "file": "themes/sunset/wall.jpg"
+    },
+    {
+      "id": "night",
+      "schema": 2,
+      "name": "夜航 · 静夜",
+      "author": "轻语官方",
+      "desc": "深夜记账也不刺眼的静夜配色",
+      "file": "themes/night/wall.jpg"
+    },
+    {
+      "id": "room",
+      "schema": 2,
+      "name": "暖屋 · 书桌",
+      "author": "轻语官方",
+      "desc": "像在书桌前翻开账本的暖调",
+      "file": "themes/room/wall.jpg"
+    }
+  ]
+}
